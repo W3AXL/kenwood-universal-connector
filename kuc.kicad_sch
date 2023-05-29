@@ -2,7 +2,14 @@
 
   (uuid 657dd5a3-3cd5-459e-8d8d-14dd5371eb7b)
 
-  (paper "A4")
+  (paper "USLetter")
+
+  (title_block
+    (title "Kenwood Universal Connector")
+    (date "2023-05-28")
+    (rev "A")
+    (company "W3AXL")
+  )
 
   (lib_symbols
     (symbol "Connector:TestPoint_Small" (pin_numbers hide) (pin_names (offset 0.762) hide) (in_bom yes) (on_board yes)
@@ -162,7 +169,6 @@
       )
     )
   )
-
 
   (junction (at 139.7 92.71) (diameter 0) (color 0 0 0 0)
     (uuid 0af8327a-78e0-4b1a-a32d-4626039293db)
