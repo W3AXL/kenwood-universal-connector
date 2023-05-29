@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Kenwood_Universal_Connector")(type "KiCad")(uri "${KIPRJMOD}/Kenwood_Universal_Connector.kicad_sym")(options "")(descr ""))
+)
